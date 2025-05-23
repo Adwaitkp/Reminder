@@ -18,9 +18,7 @@ A simple REST API for scheduling reminders with SMS/Email notifications (notific
 
 ## Getting Started
 
-### 1. Clone the repository
-git clone https://github.com/yourusername/remind-me-later.git
-cd remind-me-later
+Clone the repository
 
 Install dependencies
 npm install
